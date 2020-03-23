@@ -4,7 +4,7 @@ Mis soluciones a los diversos problemas presentados en las competencias de progr
 Las soluciones están en Python 3 o C++.
 Si tienes alguna duda deja un Issue y lo respondere en cuanto antes :) .
 
-## Explicacion Casos de Pruebas
+## Casos de Pruebas
 Las competencias de Google tienen una característica que los diferencia de otros competencias de programación, como por ejemplo los de la ICPC, y eso son los casos de prueba (además de solo presentar 3 o 4 problemas).
 
 Cada problema tiene un nombre,por ejemplo el primer problema del KickStart 2020 se llama "Allocation", y despues del problema vienen 2 puntaciones en parentesis, es Allocation son 5pts y 7pts.

@@ -22,7 +22,7 @@ Set de Prueba 1
 1 ≤ N ≤ 100.
 
 Set de Prueba 2
-1 ≤ N ≤ 105.
+1 ≤ N ≤ 10^5.
 
 
 Entrada

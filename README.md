@@ -15,6 +15,7 @@ Estas puntaciones tienen que ver con el los casos de prueba
 
 Cada problema tiene 2 tipos de casos de prueba donde, generalmente, cambia el rango de alguno de los valores de entrada.
 En el caso de Allocation cambia el valor de N.
+
 ![G2](https://user-images.githubusercontent.com/46362679/77267341-4e0f8b80-6c70-11ea-9c8f-af687f6c7330.png)
 
 Cuando envíes el algoritmo de tu solución sera evaluado para los 2 tipos de casos de pruebas, si tu solución es valida para alguno de los casos de pruebas te mostrara un ángulo verde, obviamente lo mejor seria tener los 2 ángulo verdes.
